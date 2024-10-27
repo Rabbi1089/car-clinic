@@ -20,15 +20,18 @@ const About = () => {
         </div>
 
         <div className="w-1/2 ">
-        <h1 className="text-5xl font-bold">Box Office News!</h1>
-        <p className="py-6">
-          Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-          excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a
-          id nisi.
+        <h1 className="text-5xl font-bold">About Us</h1>
+        <p className="py-6 text-3xl">
+        We are qualified & of experience in this field
         </p>
-        <button className="btn btn-primary">Get Started</button>
+        <p className="py-6 text-xl">
+        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. 
+        </p>
+        <p className="py-6 text-xl">
+        the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. 
+        </p>
+        <button className="btn btn-primary">Book Now</button>
         </div>
-
         <div></div>
       </div>
     </div>
