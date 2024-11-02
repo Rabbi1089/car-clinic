@@ -1,3 +1,4 @@
+
 import About from "../components/About";
 import Slider from "../components/Slider";
 import Services from "./services/Services";
@@ -8,6 +9,7 @@ const Home = () => {
       <Slider></Slider>
       <About></About>
       <Services />
+     
     </div>
   );
 };

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import img from "../../assets/images/login/login.svg";
 import { useContext } from "react";
-import { AUthContext } from "../../../provider/AuthProvider";
+import { AUthContext } from "../../provider/AuthProvider";
 
 const SignUp = () => {
   const { createUser } = useContext(AUthContext);
